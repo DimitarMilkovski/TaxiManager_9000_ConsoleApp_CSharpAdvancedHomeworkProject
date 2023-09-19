@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkshopApp.TaxiManager9000/1.0.0": {
+        "dependencies": {
+          "Workshop1.Domain": "1.0.0",
+          "Workshop1.Services": "1.0.0"
+        },
+        "runtime": {
+          "WorkshopApp.TaxiManager9000.dll": {}
+        }
+      },
+      "Workshop1.Domain/1.0.0": {
+        "dependencies": {
+          "Workshop1.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "Workshop1.Domain.dll": {}
+        }
+      },
+      "Workshop1.Helpers/1.0.0": {
+        "runtime": {
+          "Workshop1.Helpers.dll": {}
+        }
+      },
+      "Workshop1.Services/1.0.0": {
+        "dependencies": {
+          "Workshop1.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Workshop1.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkshopApp.TaxiManager9000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workshop1.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workshop1.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workshop1.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

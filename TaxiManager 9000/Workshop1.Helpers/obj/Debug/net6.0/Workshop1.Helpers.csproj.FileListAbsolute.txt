@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\bin\Debug\net6.0\Workshop1.Helpers.deps.json
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\bin\Debug\net6.0\Workshop1.Helpers.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\bin\Debug\net6.0\Workshop1.Helpers.pdb
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\refint\Workshop1.Helpers.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\Workshop1.Helpers.pdb
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Helpers\obj\Debug\net6.0\ref\Workshop1.Helpers.dll

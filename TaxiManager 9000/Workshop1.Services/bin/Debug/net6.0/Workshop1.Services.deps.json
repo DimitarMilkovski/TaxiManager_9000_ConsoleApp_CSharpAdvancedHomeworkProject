@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Workshop1.Services/1.0.0": {
+        "dependencies": {
+          "Workshop1.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Workshop1.Services.dll": {}
+        }
+      },
+      "Workshop1.Domain/1.0.0": {
+        "dependencies": {
+          "Workshop1.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "Workshop1.Domain.dll": {}
+        }
+      },
+      "Workshop1.Helpers/1.0.0": {
+        "runtime": {
+          "Workshop1.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workshop1.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workshop1.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workshop1.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

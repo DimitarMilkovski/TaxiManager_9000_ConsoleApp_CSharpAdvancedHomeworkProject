@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\bin\Debug\net6.0\Workshop1.Domain.deps.json
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\bin\Debug\net6.0\Workshop1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\bin\Debug\net6.0\Workshop1.Domain.pdb
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\bin\Debug\net6.0\Workshop1.Helpers.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\bin\Debug\net6.0\Workshop1.Helpers.pdb
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.csproj.CopyComplete
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\refint\Workshop1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\Workshop1.Domain.pdb
+C:\Users\Dell\Desktop\C# Advanced\Workshop1\Workshop1\Workshop1.Domain\obj\Debug\net6.0\ref\Workshop1.Domain.dll
